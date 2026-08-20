@@ -46,6 +46,6 @@
   "log_entry_limit": "5000",
   "click_recorder_enabled": "false",
   "theme_mode": "0",
-  "stop_automation":"false",
+  "stop_automation":"true",
   "clear_all": "t3"
 }
